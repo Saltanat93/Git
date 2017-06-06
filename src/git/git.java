@@ -11,6 +11,7 @@ public class git {
 		
 	}
 	String name="Saltanat";
+	int num=5;
 
 	
 
